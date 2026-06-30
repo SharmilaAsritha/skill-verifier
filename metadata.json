@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Remix: SkillVerifier",
+  "description": "Tested. Measured. Proven. An interactive benchmarking app to test real-world technical and soft skills, complete with skill trees, voice stress-tests, leaderboards, peer reviews, and verifiable dossiers.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
